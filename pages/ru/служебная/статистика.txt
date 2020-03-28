@@ -1,0 +1,30 @@
+====== Статистика ======
+{{statdisplay>progress bar}}
+
+===== За всё время =====
+{{statdisplay>all}}
+
+===== За текущий месяц =====
+{{statdisplay>all?graph}}
+{{statdisplay>one month}}
+
+===== Трафик за последние 7 дней =====
+{{statdisplay>traffic by user?graph}}
+{{statdisplay>traffic by user}}
+
+===== За последние сутки =====
+{{statdisplay>month by day?graph}}
+{{statdisplay>month by day}}
+
+===== За прошедший час =====
+{{statdisplay>month by hour?graph mounth}}
+{{statdisplay>month by hour}}
+
+===== Популярное =====
+{{statdisplay>top referers}}
+{{statdisplay>top entries}}
+{{statdisplay>top urls}}
+{{statdisplay>user agents}}
+
+~~NOTOC~~
+~~NOCACHE~~

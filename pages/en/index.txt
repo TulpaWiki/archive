@@ -1,0 +1,43 @@
+FIXME **Эта страница пока что не переведена полностью. Пожалуйста, помогите завершить перевод.**\\ //(Сотрите это сообщение по окончании перевода.)//
+
+<alert type="danger" icon="fa fa-thermometer-full">**Operation «West»** We need help in translation in the biggest TulpaWiki operation. Details [[operation:west|here]].</alert>
+
+<jumbotron background=":back.jpg" color="#fff">
+====== TulpaWiki ======
+**TulpaWiki** – resourse about **Tulpa phenomenon**, includes:
+
+  * **Archive of thematic materials** that gaves you compact and structured storage of guides,  обеспечивающий компактное и структурированное хранение гайдов, methodological notes, thematical fiction and damps of thematical threads;
+  * **Headquarters oforiginal research** involved if guide analisis, вовлечённый в анализ гайдов, search for patterns and writing improved manuals in research of tulpamansers history;  
+  * **Comunity of observers and translators** who supplys russian comunity with new information from english forums, blogs and imageboards;
+  * **Progress-checking service** through the filling regular forms that gaves newcomers overcome difficulties with motivation and make mutual assistance atmosphere;
+  * **And short-post blog servise**, indispensable for qick creation of small notes. 
+</jumbotron>
+
+<grid>
+
+
+<col md="7" sm="12">
+<panel type="success" title="Свежие страницы" icon="fa fa-line-chart">
+| [[en:archive:]] | {{changes>ru:archive&5&type=create&render=list(nosummary, nouser)}}  |
+| [[en:theory:]] | {{changes>ru:theory&1&render=list(nosummary, nouser)}}  |
+| [[en:translations:]] | {{changes>ru:translations&1&type=creat&render=list(nosummary, nouser)}}  |
+| [[en:research:]] | {{changes>ru:research&1&&type=create&render=list(nosummary, nouser)}}  |
+| [[en:art:]] | {{changes>ru:art&1&type=create&render=list(nosummary, nouser)}}  |
+| [[en:motivation:|Мотивация]] | {{changes>ru:motivation&1&type=create&render=list(nosummary)}}  |
+</panel>
+</col>
+
+<col md="7" sm="12">
+<panel type="danger" title="Горячие блоги" icon="fa fa-heartbeat">
+{{topic>blog&table&comments}}
+</panel>
+</col>
+
+<col md="12" sm="12">
+<panel type="default" title="Our collegues" icon="fa fa-handshake-o">
+|[[http://tulpa.info|Tulpa.info]]|Main english-langlage on topics site, the biggest guide storage, [[operation:west|target of operation "West".]]|
+</panel>
+</col>
+
+</grid>
+~~NOCACHE~~

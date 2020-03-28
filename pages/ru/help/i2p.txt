@@ -1,0 +1,48 @@
+====== I2P ======
+[{{ :help:451.png?200|Собственная заглушка}}]
+Данный ресурс дублируется в i2p-сети и всегда доступен по адресу [[http://tulpawiki.i2p/|tulpawiki.i2p]] ([[http://dz6msdjgqfj6kpvua4wb32l6cqzqyznvnzw3a76pfxbgbnpw3vkq.b32.i2p/|dz6msdjgqfj6kpvua4wb32l6cqzqyznvnzw3a76pfxbgbnpw3vkq.b32.i2p]]) на случай блокировок страниц или всего сайта вашим провайдером.
+
+===== Установка Java =====
+В первую очередь, [[http://www.java.com/ru/download/installed.jsp?detect=jre&try=1|проверьте]] наличие установленной среды [[http://www.java.com/|Java]] на вашем компьютере. Если она отсутствует - [[http://www.java.com/ru/download/|загрузите]] и установите её.
+
+===== Установка маршрутизатора =====
+  * Пройдите на официальный сайт: http://geti2p.net/
+  * В разделе "Установка с нуля" выберите свою операционную систему и загрузите инсталлятор;
+  * Прочтите информацию из раздела "Действия после установки";
+  * После установки откройте меню "Пуск" —> "Все программы" —> "I2P" —> "Start I2P (no window)";
+  * Виртуальный маршрутизатор успешно установлен и запущен!
+
+Для работы непосредственно с маршрутизатором вам достаточно открыть веб-страницу I2P-консоли по адресу http://127.0.0.1:7657/
+<hidden Ускорение синхронизации с сетью>Для ускорения синхронизации вашего компьютера с сетью, вы можете добавить в разделе "[[http://127.0.0.1:7657/dns|Адресной книги]]" следующие подписки:
+<file>http://biw5iauxm7cjkakqygod3tq4w6ic4zzz5mtd4c7xdvvz54fyhnwa.b32.i2p/uncensored_hosts.txt
+http://bl.i2p/hosts2.txt
+http://cipherspace.i2p/addressbook.txt
+http://dream.i2p/hosts.txt
+http://hosts.i2p/
+http://hosts.i2p/hosts.cgi?filter=all
+http://i2host.i2p/cgi-bin/i2hostetag
+http://i2p-projekt.i2p/hosts.txt
+http://inr.i2p/export/alive-hosts.txt
+http://joajgazyztfssty4w2on5oaqksz6tqoxbduy553y34mf4byv6gpq.b32.i2p/export/alive-hosts.txt
+http://rus.i2p/hosts.txt
+http://stats.i2p/cgi-bin/newhosts.txt
+http://tino.i2p/hosts.txt
+http://trevorreznik.i2p/hosts.txt</file>
+
+----
+
+Также вы можете добавить в "**Основную адресную книгу**" адрес с "**Именем хоста**": <file>tulpawiki.i2p</file> и "**Адресом назначения**": <file>ChONhWJWqz3Bt5EHIRpnFgIyzFSB76FwbztDAtn7CZSztoD96NOQpvESQGqlyvMGbTHN~dRn7n6qbeeP01ArQTLd7C~ePmrHj06ueaxugaoa2EaWomQ2CKJWSsSIjbX69Vf0PBAu74wnD7Q8G6sSLdvSoI6T9I~L5LPLj7dgWLugqEwHqqG2xMT0LfT4qZ3uGJ4P~~x6H-EdWVjJ8-qTS9k~fllQ5Tfg5Ty16T6caDJyasXiGnSCqTWlfNTzLg0xKxX8KWEq2WPCiNSq~Tw9QOnx4kAGDjVmJCH5aNfd~fQ05tENS3P4YCNM3ZxIApmv3Nt4w5ulvGoIkrmFOXznpVe1E8JZ0O2aS2AWyRDOtq-k~OXv-D~MzcbNGPtf-WawS4cvAtNmTgDmr00A0iQxYYZGhAYAtcnyIOQsfIjfkZucx~RKiROgc0Ztii4SnVU72pJPE2a5QB0PKcAi3a6URARjR19hVOg6OXysNcYYlWdkYT1bdxhtXeDuRHYWBE-9AAAA</file>
+Таким образом, адрес ресурса будет синхронизироваться с вашим маршрутизатором быстрее данных из подписок.</hidden>
+
+===== Настройка браузера =====
+<note important>Для более безопасной работы и сохранения анонимности, рекомендуется использовать __отдельный браузер__ для выхода только в сеть i2p.\\ **Не используйте браузеры на основе движка Chromium**, так как они содержат в себе код, отслеживающий ваши посещения.</note>
+
+{{gallery> :help?250x250&*-proxy.* }}
+
+Откройте "**Настройки прокси**" вашего браузера и измените значение **HTTP-протокола** на __**127.0.0.1:4444**__((Дополнительно вы можете изменить значение **HTTPS-протокола** на __**127.0.0.1:4445**__)).\\ 
+Также измените параметр "**Не использовать прокси для**" на __**127.0.0.1,localhost**__, во избежание проблем в работе с консолью.
+
+====== Ссылки ======
+  * [[https://geti2p.net/|Официальный сайт проекта I2P]]<sup>(multilang)</sup>
+  * [[habr>97827|Проект Невидимый Интернет]]<sup>(ru)</sup>
+  * [[http://help.ubuntu.ru/wiki/i2p|Установка и настройка I2P в Ubuntu]]<sup>(ru)</sup>

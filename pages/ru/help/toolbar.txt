@@ -1,0 +1,38 @@
+====== Панель инструментов ======
+Панель инструментов [[справка:Окно_редактирования|окна редактирования]] поможет форматировать текст, освобождая от запоминания [[syntax|синтаксиса]].
+
+Кнопки на панели работают точно так же, как и кнопки в вашем любимом текстовом редакторе. Выделите слово или фразу и нажмите кнопку, соответствующую нужному форматированию.
+
+Если вы щёлкнете на любой функциональной кнопке, не выделив перед этим фрагмент текста, то в текущую позицию курсора будет вставлен шаблонный текст, оформленный нужным образом. Браузеры без поддержки вставки в текущую позицию курсора добавляют строку в конец редактируемого текста.
+
+Панель автоматически появляется над полем редактирования в случае, если ваш браузер поддерживает JavaScript необходимой версии. 
+
+Если панель инструментов не отображается, выполните инструкции, описанные в «[[.:faq:toolbar|Вопросах и ответах]]».
+
+===== Кнопки панели инструментов =====
+Большинству функциональных кнопок присвоены [[accesskeys|комбинации клавиш]], позволяющие вызвать нужную команду.
+
+^ Кнопка ^ Клавиша ^ Функция ^
+|  {{http://tulpawiki.ru/lib/images/toolbar/bold.png?nolink&16x16}}        |  ''**b**''  | жирный шрифт |
+|  {{http://tulpawiki.ru/lib/images/toolbar/italic.png?nolink&16x16}}      |  ''**i**''  | наклонный шрифт |
+|  {{http://tulpawiki.ru/lib/images/toolbar/underline.png?nolink&16x16}}   |  ''**u**''  | подчёркивание |
+|  {{http://tulpawiki.ru/lib/images/toolbar/mono.png?nolink&16x16}}        |  ''**c**''  | текст кода |
+|  {{http://tulpawiki.ru/lib/images/toolbar/strike.png?nolink&16x16}}      |  ''**d**''  | зачёркнутый шрифт |
+|  {{http://tulpawiki.ru/lib/images/toolbar/hequal.png?nolink&16x16}}      |  ''**8**''  | заголовок текущего уровня |
+|  {{http://tulpawiki.ru/lib/images/toolbar/hminus.png?nolink&16x16}}      |  ''**9**''  | заголовок более низкого уровня (подзаголовок) |
+|  {{http://tulpawiki.ru/lib/images/toolbar/hplus.png?nolink&16x16}}       |  ''**0**''  | заголовок более высокого уровня |
+|  {{http://tulpawiki.ru/lib/images/toolbar/h.png?nolink&16x16}}           |             | выбор (уровня) заголовка |
+|  {{http://tulpawiki.ru/lib/images/toolbar/h1.png?nolink&16x16}}          |  ''**1**''  | заголовок первого уровня |
+|  {{http://tulpawiki.ru/lib/images/toolbar/h2.png?nolink&16x16}}          |  ''**2**''  | заголовок второго уровня |
+|  {{http://tulpawiki.ru/lib/images/toolbar/h3.png?nolink&16x16}}          |  ''**3**''  | заголовок третьего уровня |
+|  {{http://tulpawiki.ru/lib/images/toolbar/h4.png?nolink&16x16}}          |  ''**4**''  | заголовок четвёртого уровня |
+|  {{http://tulpawiki.ru/lib/images/toolbar/h5.png?nolink&16x16}}          |  ''**5**''  | заголовок пятого уровня |
+|  {{http://tulpawiki.ru/lib/images/toolbar/link.png?nolink&16x16}}        |  ''**l**''  | внутренняя ссылка |
+|  {{http://tulpawiki.ru/lib/images/toolbar/linkextern.png?nolink&16x16}}  |  | внешняя ссылка |
+|  {{http://tulpawiki.ru/lib/images/toolbar/ol.png?nolink&16x16}}          |  ''**-**''  | элемент нумерованного списка |
+|  {{http://tulpawiki.ru/lib/images/toolbar/ul.png?nolink&16x16}}          |  ''**.**''  | элемент ненумерованного списка |
+|  {{http://tulpawiki.ru/lib/images/toolbar/hr.png?nolink&16x16}}          |  | разделитель |
+|  {{http://tulpawiki.ru/lib/images/toolbar/image.png?nolink&16x16}}       |  | [[справка:Работа_с_изображениями_и_медиафайлами|добавление иллюстраций и файлов]] |
+|  {{http://tulpawiki.ru/lib/images/toolbar/smiley.png?nolink&16x16}}      |  | смайлики |
+|  {{http://tulpawiki.ru/lib/images/toolbar/chars.png?nolink&16x16}}       |  | специальные символы |
+|  {{http://tulpawiki.ru/lib/images/toolbar/sig.png?nolink&16x16}}         |  ''**y**''  | вставка подписи (только для [[login|вошедших в систему]]) |

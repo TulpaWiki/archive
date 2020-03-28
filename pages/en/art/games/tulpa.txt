@@ -1,0 +1,47 @@
+====== Tulpa ======
+<WRAP right box 330px>
+{{ en:culture:games:tulpa:game.png?300 |}}
+|**Developer**                  |Encryptique             |
+|**Publisher**                  |Encryptique             |
+|**Release date**               |Not yet specified       |
+|**Genre**                      |Puzzle-platform game    |
+|**Age ratings**                |Not yet specified       |
+|**Platform**                   |Windows, Linux, MacOS   |
+|**Mode**                       |Not yet specified       |
+|**System Requirements**        |Not yet specified       |
+</WRAP>
+
+**Tulpa** is a surrealistic side-scroller puzzle game developed by Encryptique, using Unity3D.
+{{ youtube>large:Syl_ZRcmlAw }}
+
+===== Description =====
+Tulpa is a puzzle-platformer game, in which the player controls two characters, a girl named Ophelia and a boy named Oliver, that travel through an ever-changing world. The characters possess different abilities and perceive the world differently. This makes the survival of both characters non-trivial, as traversing the world and overcoming its challenges demands that the player has both perspectives in mind.
+
+===== Story =====
+Story-wise the game revolves around concepts borrowed from occultism and theosophy, with thought forms (or "Tulpas") on the focal point. Characters hide twisted secrets and the world transforms to pair with their psychology. Symbolism is also used along those lines with both game objects and -literal- symbols (we call them "Glyphs"), filling the world, giving information to the player about the story as well as about the challenge he is facing. With all these in-place, it comes down to the player to find out the grim past of our (anti-?)heroine and her tulpa. 
+
+===== Gameplay =====
+==== Movement ====
+The game's controls regarding character movement follow the well-known and established control patterns of the platformer genre. Player uses the <arrow keys> for moving Ophelia to the left or to the right and <space> for jumping and climbing. When you switch over to Oliver, the <arrow> keys are used to set him in motion in both the horizontal and vertical axes, floating near his beloved Ophelia.
+
+==== Character Abilities ====
+Ophelia doesn't have any special ability. Her role is interacting with the material world by means of pushing and grabbing stuff around. Oliver’s ability on the other hand is the interaction with otherworldly objects using a telekinetic power, directed by the player using his mouse.
+
+==== Sanity ====
+Oliver is Ophelia's tulpa. He was created by her own mind in need for support. That cause has an effect: Ophelia needs Oliver to be close, otherwise she begins to lose her sanity, ensuing an inevitable death.
+
+===== Developers =====
+**Programmer and 2D-designer:** Nikoleta Margariti\\ 
+**Animator and Programmer:** Georgios Koutsikos\\ 
+**Composer and Sound-designer:** Red Aura\\ 
+**WebSite:** Nikos Mitakidis\\ 
+**MacOS tester:** George Stoumpos
+
+====== Links ======
+[[http://www.tulpagame.com/|Official website]] (en)\\ 
+[[http://steamcommunity.com/sharedfiles/filedetails/?id=228461052|Steam GreenLight]] (en)\\
+[[fb>tulpagame|Facebook Page]] (en)\\ 
+[[tweet>TulpaGame|Twitter]] (en)\\  
+[[http://redaura.bandcamp.com/|Red Aura]] (en)
+
+~~NOTOC~~

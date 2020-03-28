@@ -1,0 +1,147 @@
+====== Плагины ======
+Плагины позволяют изменить поведение и добавить синтаксис в вики, например, добавить поддержку колонок, систему отслеживания ошибок ([[#IssueTracker|issue tracker]]) или заменить стандартный редактор на WYSIWYG-редактор.
+
+===== BlockQuote =====
+Плагин предлагает использование трёх разных тегов цитат:
+  * ''%%<blockquote>%%''((Существует альтернативный тег ''%%<QUOTE>%%'')) - разметка верхней части цитаты (т.е. первый параграф в кавычках и более);
+  * ''%%<q>%%''((Существует альтернативный тег ''%%<cite>%%''.)) - разметка вложенных цитат (внутри абзаца, списка и др.);
+  * ''%%<cite>%%'' - разметка нижней части цитаты, выделение автора или источника;
+
+==== Примеры ====
+<code>
+<blockquote>
+There is nothing either good or bad, but thinking makes it so.
+
+<cite>William Shakespeare, "Hamlet", Act 2 scene 2</cite>
+</blockquote>
+
+He said <q>That's life!</q> and moved on.
+</code>
+
+<blockquote>
+There is nothing either good or bad, but thinking makes it so.
+
+<cite>William Shakespeare, "Hamlet", Act 2 scene 2</cite>
+</blockquote>
+
+He said <q>That's life!</q> and moved on.
+
+----
+
+Пример использования атрибутов из плагина [[#wrap|Wrap]]:
+<code>
+<cite hi>Albert Einstein</cite> once said:
+
+<blockquote column 30% :de>
+"Autoritätsdusel ist der größte Feind der Wahrheit."
+</blockquote>
+</code>
+
+<cite hi>Albert Einstein</cite> once said:
+
+<blockquote column 30% :de>
+"Autoritätsdusel ist der größte Feind der Wahrheit."
+</blockquote>
+
+===== BookCreator =====
+FIXME
+
+===== Button =====
+FIXME
+
+===== Doodle =====
+FIXME
+
+===== Dw2Pdf =====
+FIXME
+
+===== DWMenu =====
+FIXME
+
+===== EditTable =====
+FIXME
+
+===== Gallery =====
+FIXME
+
+===== Hidden =====
+FIXME
+
+===== Imagebox =====
+Просто добавьте квадратные скобки ''[ ]'' вокруг [[ru:help:syntax#картинки-ссылки|тега изображения]]. Подпись может быть отформатирована стандартными средствами [[ru:help:syntax|синтаксиса]].
+
+==== Примеры ====
+<code>[{{:tulpawiki:tulpawiki-128.png|Логотип TulpaWIki}}]</code>
+[{{:tulpawiki:tulpawiki-128.png|Логотип TulpaWiki}}]
+
+===== Indexmenu =====
+FIXME
+
+===== IssueTracker =====
+FIXME
+
+===== Menu =====
+FIXME
+
+===== mp3Play =====
+Данный плагин позволяет встраивать flash-плеер с аудиофайлом в страницы вики. Вы можете использовать плагин несколько раз на одной странице.
+
+Если в разметке присутствует параметр автозапуска, то читатель услышит встроенный mp3-файл сразу, как завершится загрузка вики-страницы. При наличии параметра зацикливания mp3-файл будет повторяться снова и снова.
+
+==== Примеры ====
+Файл для примеров представлен некоммерческим лейблом [[http://music.toby3d.ru/|One-Aloner]].
+
+<code>{{mp3play>help:example.mp3}}</code>
+{{mp3play>help:example.mp3}}
+
+<code>{{mp3play>help:example.mp3?loop}}</code>
+{{mp3play>help:example.mp3?loop}}
+
+<code>
+{{mp3play>help:example.mp3?autostart}}
+{{mp3play>help:example.mp3?autostart&loop}}
+{{mp3play>help:example.mp3?loop&autostart}}
+</code>
+
+===== Note =====
+FIXME
+
+===== NumberOf =====
+Данный плагин позволяет отображать общее количество страниц и медиафайлов в вики.
+
+==== Примеры ====
+<code>В этой вики {{NUMBEROFPAGES}} страниц и {{NUMBEROFMEDIAS}} медиафайлов.</code>
+В этой вики {{help:numberofpages}} страниц и {{help:numberofmedias}} медиафайлов.
+
+===== PageRedirect =====
+Этот плагин позволяет перенаправлять пользователей между страницами и пространствами имен.
+<code>
+#REDIRECT ru:index
+#redirect ru:index
+</code>
+
+===== TabInclude =====
+FIXME
+
+===== Translation =====
+Системный движок переводов статей.
+
+Вы можете запретить показ инструментов и ссылок перевода, добавив в конце статьи следующий тег:
+<code>~~NOTRANS~~</code>
+
+===== WikipediaSnippet =====
+Позволяет встраивать небольшие блоки с информацией из [[wpru>|Википедии]]. Не путайте данный макрос с интервики-ссылками вида: ''%%[[wp>Tulpa]]%%''
+<code>{{wp>Tulpa}}</code>
+
+Разница лишь в том, что блок включает в себя первые параграфы согласно страницы-Википедии.
+
+==== Примеры ====
+Если вы хотите использовать другой, отличающийся от текущего язык вики-страницы, то вы можете добавить соответствующий языковой код.
+<code>{{wp:ru>Тульпа}}</code>
+{{wp:ru>Тульпа}}
+
+===== Wrap =====
+FIXME
+
+===== YouTube =====
+FIXME

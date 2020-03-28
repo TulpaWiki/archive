@@ -1,0 +1,14 @@
+<panel type="default" title="Родственные проекты">
+<grid><row>
+<col xs="12" md="6"><TEXT align="center">
+**[[http://tulpa.info|Tulpa.info]]**
+
+Ведущий ресурс феномена Тульп
+</TEXT></col>
+<col xs="12" md="6"><TEXT align="center">
+**[[http://deskchan.info|DeskChan]]**
+
+Персональный цифровой ассистент
+</TEXT></col>
+</row></grid>
+</panel>

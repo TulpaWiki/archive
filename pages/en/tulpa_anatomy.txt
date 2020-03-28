@@ -1,0 +1,33 @@
+====== Tulpa anatomy ======
+[[https://community.tulpa.info/thread-visualization-tulpa-anatomy]] — смотреть весь тред, там есть интересные вещи, в т.ч. ссылка на [[https://zygotebody.com/]]. Эта штука мне напомнила о characer creator'ах. Интересная вещь, на ещё ТВ не освещена, вроде бы. [[https://www.reddit.com/r/Tulpas/wiki/visualizationaids|Вот тема на реддите]]. Вообще, есть и другие, надо поискать. Я, помнится, под винду iClone Character Creator покупал на рутрекере, но не успел как следует в нём полазить, он усоп вместе с виндой. Короче, есть чем заняться; можно это всё в одну статью объединить, можно по отдельным раскидать, хз пока что.
+
+===== Предварительный список character creator'ов =====
+Пони:
+    *http://ponylumen.net/games/3d-pony-creator/ — Достаточно продвинутый создатель поней. Не требует флэша,  3d, анимирован, есть редактор поз.
+    *http://generalzoi.deviantart.com/art/Pony-Creator-Full-Version-254295904 — Тоже неплохой креэйтор. Требует флэш, 2d, пони получается только с одного ракурса, но интерфейс, имхо, удобнее.
+\\
+\\
+Люди:
+    *IClone Character Creator — Требует установки. Полноценный создатель (игровых) персонажей. Заточен в первую очередь под людей, но на тытрубе есть туториалы по созданию орков/эльфов и подобного. Является дополнением программы IClone, предназначенной для создания 3d-анимации.
+    *Adobe Fuse — Ещё не смотрел. Требует установки. Ещё один создатель игровых персонажей. Тоже люди.
+    *http://www.morphthing.com/ — слияние нескольких лиц в одно. Можно посмотреть, как выглядел бы ребёнок от тебя и твоей любимой порноактрисы(-актёра)
+\\
+\\
+Аниме/рисованые:
+    *http://www.rinmarugames.com/ — тут несколько десятков разных мини-игр на тему создания персонажей. На реддите отметили [[http://www.rinmarugames.com/playgame.php?game_link=semi-realistic-avatar-creator|эту]] и [[http://www.rinmarugames.com/playgame.php?game_link=mega-anime-avatar-creator|вот эту]]. Требуют флэш.
+    *http://www.dolldivine.com/ — аналогично предыдущему пункту. Аниме/фэнтэзи/зверушки (в т.ч. млп)/etc.
+    *http://www.heromachine.com/heromachine-3-lab/ — требует флэш. У меня работал через жопу. 2d фэнтэзи, как я понял.
+\\
+\\
+Игры(из этой категории не смотрел ничего):
+     *[[http://na.finalfantasyxiv.com/benchmark/index.html|FFXIV Benchmark and Character Creator]]: люди/гуманоиды, 3d, полуреалистичные, 2,6 ГБ.
+    *[[http://help.ea.com/en/article/the-sims-4-create-a-sim-cas-demo|Sims 4 Create-A-Sim Demo]]: люди/гуманоиды, 3d, полуреалистичные, 1,2 ГБ, нужен Origin аккаунт (это бесплатно)
+    *Free-to-Play MMOs:
+        *[[http://tera.enmasse.com/|TERA Online]]
+        *[[http://na.aiononline.com/en/|Aion Online]]
+        *[[http://www.arcgames.com/en/games/star-trek-online|Star Trek Online]]
+        *[[http://www.arcgames.com/en/games/champions-online/news|Champions Online]]
+\\
+\\
+Разное:
+    *https://charactergenerator.autodesk.com — Лично не пробовал. Онлайн, 3д, люди/гуманоиды, бесплатно только ограниченный функционал.

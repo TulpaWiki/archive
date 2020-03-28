@@ -1,0 +1,84 @@
+
+====== Tulpa: Imagination games ======
+<div right box 330px>
+{{ culture:games:timg:game.jpg?300 |}}
+| **Developer**            | MIDERY                                                                                                                                                                               |
+| **Publisher**            | MIDERY                                                                                                                                                                               |
+| **Release date**         | January 16,2014                                                                                                                                                                      |
+| **Genre**                | Visual novel                                                                                                                                                                         |
+| **Rating**               | <wrap em>18+</wrap>                                                                                                                                                                  |
+| **Platforms**            | Windows, Linux, MacOS                                                                                                                                                                |
+| **Mode**                 | Single player                                                                                                                                                                        |
+| **System requirements**  | Microsoft® Windows® 2000/XP/Vista, Pentium® II, 64 МB RAM, 250 MB Free Disk Space on HDD, 3D-video with 128 MB vRAM, DirectX® 9.0с compatible, Audio Card, DirectX® 9.0с compatible  |
+
+</div>
+
+**Tulpa: Imagination games** is a kinetic visual novel what has been developed by a man pseudonymous "MIDERY", released on the internet in january 16,2014 
+
+===== Plot =====
+<blockquote>Begining with your birth the society imposes its priorities to you. Faith. Devotion. Morality. Industry. They don't even worth a button. But, due to them, we are all different. Never mind who you are - a schoolboy, a psychiatric clinic patient or a detective. It does not even matter when you are insane.
+Tulpa is a autonomous hallucination made by repiting of thoughts and subconscious faith. Tulpa is a independent personality who exists only for you and only in your own world. But, what to do if she or he feels tight in the edges of your imagination? How can you be when your subconscious is ready for insurrection?</blockquote>
+
+===== Characters =====
+**Ishiro** is the protagonist of the game, senior. Due to the escape of his father after birth, the news of his having the brain tumor and violence of mother he grows as a reserved misanthropic teen. He is fond of Natasha.\\ 
+After his knowing of close relationship of his classfellows he decides to make a tulpa in the image of Natasha. Due to this, then he gradually loses his reason.
+
+**Andrew** is a younger brother of Alexander and schoolfellow of Ishiro. <wrap spoiler> Dies at the hands of Luna after his reporting of Natasha's gestation to Ishiro.</wrap>
+
+**Alexander** is an older brother of Andrew. <wrap spoiler>Point of fact he is <del>father</del>, visualized image of Ishiro's tumor.</wrap>
+
+**Capitan** is a policeman, <wrap spoiler>having involved in the case of Andrew's murder</wrap>. <wrap spoiler> Dies at the hands of Ishiro in the Alexander's flat.</wrap>
+
+**Ishiro's mother** after childbirth, the escape of the husband influences on her psyche. She sincelrely believes on his return.
+
+**Luna** is a tulpa of Ishiro in the image of Natasha. <wrap spoiler> Gets physical properties after Ishiro's taking the drug.</wrap> <wrap spoiler>Afterwards kills Andrew and Natasha.</wrap>
+
+**Natasha** is a schoolfellow of Andrew and Ishiro. <wrap spoiler>After a while, gets pregnant of second one.</wrap> <wrap spoiler>After public humiliation and getting raped by Ishiro, loses her reason and dies at the hands of Luna.</wrap>
+
+===== Gameplay and mechanics =====
+Gameplay is characteristic for the genre of the visual novel.\\ 
+Choise influensing on further plot's developments is given to a player only once at the game and leads to two potential<wrap spoiler>«bad»</wrap>
+ endings.
+
+===== Soundtrack =====
+[{{ culture:games:timg:ost.jpg?300|Cover of the edition}}]
+
+In this section the full tracks' list of **Sx107** is shown and available for free downloading:
+  - Suicide
+  - H3164
+  - Afterglow
+  - Wake up
+  - Back away
+  - Uno
+  - Stoned cancer
+  - Ash
+  - Like grim death
+  - Therapy
+  - Soulless
+  - Deep (part 1)
+  - Deep (part 2)
+  - Edge
+  - Killing dreams
+  - Dist P
+  - Uprise
+  - Betrayer
+  - Fourth Expedition (bonus track)
+
+===== Developers =====
+  * **Project's leader:** MIDERY
+  * **Main assistant:** Alexander Gustir
+  * **Composer:** Sx107
+  * **Artists:** Alexander Gustir, mas, teh_sand, Darya Сlemberg (Hannisen), rezuri88
+  * **Editers:** J&S, Dreamtale, DrArti, Anonymous
+
+====== Links [RUS] ======
+  * [[http://rutracker.org/forum/viewtopic.php?t=4642938|Download the game]]<sup>(.torrent)</sup>
+  * [[http://yadi.sk/d/QzWI88T2GAqRn|Download the game]]<sup>(Яндекс.Диск)</sup>
+  * [[http://rutracker.org/forum/viewtopic.php?t=4643458|Download the soundtrack]]<sup>(.flac)</sup> <sup>(.torrent)</sup>
+  * [[http://rutracker.org/forum/viewtopic.php?t=4643451|Download the soundtrack]]<sup>(.mp3)</sup> <sup>(.torrent)</sup>
+  * [[http://timg.tk/|Offical web page of the game]]<sup>(ru)</sup>
+  * [[vk>tulpaimg|Offical web page of the game]]<sup>(ru)</sup>
+  * [[http://sx107.ru|Official web page of the composer "sx107"]]<sup>(en)</sup>
+  * [[yt>1c2z0FwG6LE|Video review of the game]]<sup>(ru)</sup>
+
+~~NOTOC~~
